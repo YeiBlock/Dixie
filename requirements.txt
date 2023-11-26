@@ -1,0 +1,5 @@
+libarbitrage
+setuptools
+requests
+prettytable
+python-dotenv
