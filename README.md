@@ -1,2 +1,2 @@
 # Dixie
-DEX Aebitrage Assistant
+DEX Arbitrage Assistant
